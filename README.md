@@ -8,3 +8,5 @@ The R script to detect epistatic sites (aegis.R) has two sections: (1) detection
 The scripts used for simulations are located in the simulation sub-directory, which contains another README file with specific details.
 
 The data analyzed in this study are located in the data sub-directory. The naming convention of the sequences alignments follows that used in the paper (see Materials and Methods). All alignments used are in the FASTA format. All trees except the one for the Koel13HA data set were estimated by FastTree (see Materials and Methods); these are unrooted trees, that are rooted by the R script (see Materials and Methods). We only conducted the bootstrap analyses for the Gong13NP data set, so that this data set includes both the ML and the bootstrapped trees. The XML file was used to generate the dated tree for the Koel13HA data set in BEAST. 
+
+Citation: Nshogozabahizi J.C., Dench J. and Aris-Brosou S. 2017. Widespread historical contingency in Influenza viruses. Genetics. 205:409-420.
